@@ -3,7 +3,7 @@ my_name = input("what is your name?")
 # asking if it is equal to "Ely"
 if my_name == "Jon":
     # python forces you to indent
-    # my_name is equal to "Ely" so it will print "hi Ely" 
+    # my_name is equal "to Ely" so it will print "hi Ely" 
     print ("Hey dad")
 
 elif my_name == "Ely":
