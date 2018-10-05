@@ -85,5 +85,5 @@ elif x == 20:
 # if the number generated is not 1-20, print error
 
 else:
-    print ("Error")
+    print ("Error - Try Again Please")
    
